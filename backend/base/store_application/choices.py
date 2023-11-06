@@ -1,7 +1,5 @@
 STAFF_LEVEL_CHOICES = (
-    ("GUEST", "Guest"),
-    ("SELLER", "Seller"),
-    ("BUYER", "Buyer"),
+    ("USER", "User"),
     ("ADMIN", "Admin"),
 )
 TRANSACTION_STATUS_CHOICES = (
